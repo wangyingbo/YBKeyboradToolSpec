@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "YBKeyboardTool"
-  s.version      = "0.0.4"
+  s.version      = "0.0.5"
   s.summary      = "manager the keyboard tool"
 
   # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-manager the keyboard
+manager the keyboard tool,some methods
                    DESC
 
   s.homepage     = "https://github.com/wangyingbo/YBKeyboradToolSpec"
