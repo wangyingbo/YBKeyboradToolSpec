@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "YBKeyboardTool"
-  s.version      = "0.0.6"
+  s.version      = "0.0.7"
   s.summary      = "manager the keyboard tool"
 
   # This description is used to generate tags and improve search results.
@@ -69,7 +69,7 @@ manager the keyboard tool,some methods
 
   #  When using multiple platforms
   s.ios.deployment_target = "8.0"
-  s.osx.deployment_target = "10.7"
+  # s.osx.deployment_target = "10.7"
   # s.watchos.deployment_target = "2.0"
   # s.tvos.deployment_target = "9.0"
 
